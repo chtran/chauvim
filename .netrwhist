@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/chtran/rails/studium/spec/lib'
+let g:netrw_dirhist_2='/home/chtran/rails/studium/app/views/admin/materials/questions'
+let g:netrw_dirhist_3='/home/chtran/node/twitter'
+let g:netrw_dirhist_4='/home/chtran/rails/studium/config'
+let g:netrw_dirhist_5='/home/chtran/rails/faye-studium/config'
+let g:netrw_dirhist_6='/home/chtran/rails/studium/app/assets/javascripts'
+let g:netrw_dirhist_7='/home/chtran/rails/studium/app/views/registrations/registrations'
+let g:netrw_dirhist_8='/home/chtran/rails/studium/app/assets/javascripts/admin'
+let g:netrw_dirhist_9='/home/chtran/rails/studium/app/views/question_types'
